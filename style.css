@@ -14,8 +14,8 @@ header {
 }
 
 img {
-    width: 40px;
-    margin-left: 80%;
+    display: block;
+    margin-left: auto;
 }
 
 footer {
